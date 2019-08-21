@@ -1,0 +1,25 @@
+make_user(
+    'Eric Peng',     # name
+    [                   # reviews
+        make_review('Cafe 3', 3.0),
+        make_review('Chipotle Mexican Grill', 4.5),
+        make_review('Crossroads', 2.5),
+        make_review('Top Dog', 4.0),
+        make_review('Pho K & K', 4.5),
+        make_review('Subway', 3.0),
+        make_review('Gypsy\'s Trattoria Italiano', 4.5),
+        make_review('Aki Japanese Restaurant', 2.5),
+        make_review('Northside Cafe', 2.0),
+        make_review('La Val\'s Pizza', 3.0),
+        make_review('Urbann Turbann', 5.0),
+        make_review('Chinese Express', 3.5),
+        make_review('Nefeli Caffe', 4.5),
+        make_review('Cupkates', 4.0),
+        make_review('Alborz', 1.5),
+        make_review('Gather', 4.5),
+        make_review('C U Sushi', 3.5),
+        make_review('Suya African Caribbean Grill', 4.0),
+        make_review('Cafe Rio', 4.0),
+        make_review('The Sunny Side Caf\u00e9', 1.5),
+    ]
+)
